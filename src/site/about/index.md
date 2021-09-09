@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: About Me
 subtitle: Where my passion for technology comes from and what makes me tick
 date: 2020-01-12

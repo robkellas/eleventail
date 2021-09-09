@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ title }} - {{ site.author }}</title>
+    {% include "_includes/partials/head.njk" %}
+    <meta name="Description" content="{{ subtitle }}">
+    <meta property="og:title" content="{{ title }} - Rob Johnson's Personal Site">
+    <meta property="og:description" content="{{ subtitle }}">
+    <meta property="og:image" content="{{ site.author_avatar }}">
+    {# Bing verification #}
+    <meta name="msvalidate.01" content="131BC4F093A02B6664B28AA0EFAB4EA3" />
+  </head>
+  <body>
+
+    {% include "_includes/partials/nav.njk" %}
+
+    {% include "_includes/partials/banner.njk" %}
+
+    <section>
+      <div class="title">
+        <h1 class="skinny-padding">
+          {# <img src="/assets/img/wave.png" alt="wave" width="50px" /> #}
+          {{ title }}
+        </h1>
+        <h2 class="subtitle">{{ subtitle }}
+          {# <span class="txt-rotate" data-period="3000" data-rotate='[ "analyze data...", "love SQL...", "prioritize ROI...", "create strategies...", "lead teams...", "dabble with code...", "make ideas happen" ]'></span> #}
+        </h2>
+        <h2 class="subtitle">Here's where I capture some of the things I'm learning.</h2>
+        <h3 class="is-success">Seattle, WA</h3>
+        
+        <div class="socials">
+          {% include "_includes/partials/socials.njk" %}
+        </div>
+      </div>
+    </section>
+
+    <section class="content">
+      {{ content | safe }}
+    </section>
+
+    {% include "_includes/partials/speaker-events.njk" %}
+
+    <section class="content divide">
+
+      <h2>Recent posts <a href="/posts" title="see all posts by Rob Johnson" style="display:inline-block;float:right;font-size:.8em;">see all</a></h2>
+
+      <ul class="posts">
+        {%- for post in collections.feature | reverse -%}
+          <li>
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+            <br>
+            {# <span class="length">{{ post.data.content | timeToRead }}</span> #}
+            {%- for tag in post.data.tags -%}
+              {%- if tag !=='feature' and tag !=='post' -%}
+                <span class="tags">
+                  <a href="/posts/tags/{{ tag }}/"><span class="icon is-success"><strong>#</strong></span> {{ tag }}</a>
+                </span>
+              {%- endif -%}
+            {%- endfor -%}
+          </li>
+        {%- endfor -%}
+      </ul>
+    </section>
+
+    {% include "_includes/partials/tag-list.njk" %}
+
+    {% include "_includes/partials/brands.njk" %}
+
+    {% include "_includes/partials/footer.njk" %}
+    
+  </body>
+</html>

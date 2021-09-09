@@ -16,14 +16,21 @@ p+p {
 /*
   Global headings conventions
 */
-h1.heading {
-  @apply text-3xl;
-  @apply text-blue-200;
+h1, h2 {
+  @apply text-header;
   @apply mb-4;
   @apply font-semibold;
+  @apply leading-snug;
+}
+h1 {
+  @apply text-3xl;
+}
+h2 {
+  @apply text-2xl;
+  @apply mt-16;
 }
 @screen md {
-  h1.heading {
+  h1 {
     @apply text-3xl;
   }
 }
@@ -43,19 +50,6 @@ a:focus {
 a.naked-link:link,
 a.naked-link:visited {
   @apply border-0;
-}
-
-.content ul,
-.content ol {
-  @apply my-6;
-}
-.content li {
-  @apply list-disc;
-  @apply ml-6;
-}
-.content ol li {
-  @apply list-decimal;
-  @apply pl-2;
 }
 
 code {

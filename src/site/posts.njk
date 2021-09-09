@@ -1,16 +1,15 @@
 ---
-title: ElevenTail - Blog
-layout: default
+title: Posts
+layout: base
 ---
 
 <section>
   <h1 class="heading">Posts</h1>
-  <p>
-    All of these entries are posts in a collection
-  </p>
-  <ul>
-  {%- for item in collections.post | reverse -%}
-  {% include 'components/post-teaser.njk' %}
-  {%- endfor -%}
+  <p>Writing helps me process what I've learned</p>
+
+  <ul class="mt-8">
+    {%- for item in collections.post | reverse -%}
+      {% include 'components/post_list_item.njk' %}
+    {%- endfor -%}
   </ul>
 </section>

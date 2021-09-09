@@ -1,0 +1,9 @@
+    <li class="mb-6 ml-0 pl-6 border-l-8 border-dark-border">
+      <h2>
+        <a href="{{ item.url }}" class="text-header border-transparent hover:border-orange-400">{{ item.data.title }}</a>
+      </h2>
+      <h3 class="leading-snug">
+      {{ item.data.subtitle }}
+      </h3>
+      <time value="{{ item.date }}" class="text-typography-dark">{{ item.date | readableDate }}</time>
+    </li>
