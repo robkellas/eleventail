@@ -6,19 +6,18 @@
     <link rel="stylesheet" type="text/css" href="/css/styles.css">
     <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
     <title>{{ title }}</title>
-    {% include "social.njk" %}
+    {% include "components/open_graph.njk" %}
   </head>
-  <body class="text-gray-400 bg-black">
+  <body class="text-typography bg-dark">
     {% include "components/banner.njk" %}
     <div class="container mx-auto mb-12 lg:max-w-4xl p-5">
-      {% include "header.njk" %}
+      {% include "components/header.njk" %}
       <div class="content leading-relaxed">
         {{ content | safe }}
       </div>
     </div>
     {% set js %}
       {% include "js/core.js" %}
-      {% include "js/hello.js" %}
     {% endset %}
     <script>{{ js | jsmin | safe }}</script>
   </body>

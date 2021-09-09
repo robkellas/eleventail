@@ -1,12 +1,11 @@
 ---
-layout: default
-pageClass: post
+layout: base
 templateEngineOverride: njk, md
 ---
 <section>
+  <h1>{{ title }}</h1>
   <time value="{{ item.date }}" class="text-gray-600">{{ date | readableDate }}</time>
-  <h1 class="heading">{{ title }}</h1>
-  <div class="mb-4 text-lg font-medium">
+  <div class="mt-12 mb-4 text-lg font-medium">
     {{ content | section | safe }}
   </div>
   <div>

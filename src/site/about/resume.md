@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: My Résumé
 subtitle: Thank you for your time and interest
 date: 2020-01-11

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Hi, I'm Rob
 subtitle: 14+ years of professional experience in web development, e-commerce, mobile, and product management with a love for SQL and data analysis.
 eleventyExcludeFromCollections: true
