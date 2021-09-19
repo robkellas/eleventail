@@ -2,15 +2,18 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <title>{{ title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css2?family=Patua+One&amp;family=DM+Sans:ital,wght@0,400;0,700;1,400&amp;display=swap">
     <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
-    <title>{{ title }}</title>
+    
     {% include "components/open_graph.njk" %}
+  
   </head>
   <body class="text-typography bg-dark">
     {% include "components/banner.njk" %}
-    <div class="container mx-auto mb-12 lg:max-w-4xl p-5">
+    <div class="container mx-auto lg:max-w-4xl px-8 py-12">
       {% include "components/header.njk" %}
       <div class="content leading-relaxed">
         {{ content | safe }}

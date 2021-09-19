@@ -2,19 +2,29 @@
 layout: base
 templateEngineOverride: njk, md
 ---
-<section>
+<main>
   <h1>{{ title }}</h1>
-  <time value="{{ item.date }}" class="text-gray-600">{{ date | readableDate }}</time>
-  <div class="mt-12 mb-4 text-lg font-medium">
+  <h2>{{ subtitle }}</h2>
+  <section class="text-gray-600 border-t border-b border-gray-800 p-0 py-4 h-auto overflow-hidden mt-8">
+    <a href="https://www.robkjohnson.com" alt="Rob Johnson" class="float-left border-b-0 hover:border-b-0">
+      <img src="https://www.robkjohnson.com/assets/img/rob.jpg" title="Rob Johnson" class="rounded-full h-24 p-2 border border-gray-800 mr-8">
+    </a>
+    <div class="meta">
+      <p>By <a href="https://www.robkjohnson.com" title="Rob Johnson">Rob Johnson</a>
+      <p><time value="{{ item.date }}">{{ date | readableDate }}</time></p>
+      <p>7 Min #essay</p>
+    </div>
+  </section>
+
+  <article class="mt-12 mb-4 text-lg font-medium">
     {{ content | section | safe }}
-  </div>
-  <div>
     {{ content | section('remainder') | safe }}
-  </div>
-  <div class="mt-12 pt-4 text-gray-600 text-sm border-t border-gray-300">
+  </article>
+
+  <section class="mt-12 pt-4 text-gray-600 text-sm border-t border-gray-800">
     <p>
       This page is part of the <a href="/posts">posts</a> section.
     </p>
-  </div>
-</section>
+  </section>
+</main>
 

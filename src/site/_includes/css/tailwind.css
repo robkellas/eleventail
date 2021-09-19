@@ -9,6 +9,11 @@ section {
   @apply pb-10;
   @apply px-4;
 }
+p {
+  @apply mt-4;
+  @apply mb-6;
+  @apply leading-relaxed;
+}
 p+p {
   @apply mt-4;
 }
@@ -16,31 +21,34 @@ p+p {
 /*
   Global headings conventions
 */
-h1, h2 {
-  @apply text-header;
+h1, h2, h3 {
+  @apply font-patua;
   @apply mb-4;
-  @apply font-semibold;
-  @apply leading-snug;
+  @apply leading-tight;
 }
 h1 {
-  @apply text-3xl;
+  @apply text-4xl;
+  @apply text-headers-title;
 }
 h2 {
   @apply text-2xl;
-  @apply mt-16;
+  @apply mt-6;
+  @apply text-headers-subtitle;
 }
-@screen md {
-  h1 {
-    @apply text-3xl;
-  }
+h3 {
+  @apply text-3xl;
+  @apply mt-16;
+  @apply mb-12;
+  @apply text-headers-content;
 }
 
 /*
   Base styles for links
 */
 a {
+  @apply text-typography-link;
   @apply border-b-2;
-  @apply border-orange-400;
+  @apply border-transparent;
 }
 a:hover,
 a:focus {
@@ -52,12 +60,59 @@ a.naked-link:visited {
   @apply border-0;
 }
 
+/*
+  Base styles for basic html
+*/
 code {
   @apply bg-gray-900;
   @apply text-sm;
   @apply text-red-400;
   @apply p-1;
   @apply rounded;
+}
+
+blockquote {
+  @apply border-l-4 border-headers-title;
+  @apply text-typography-dark;
+  @apply font-normal;
+  @apply pl-6;
+  @apply text-2xl;
+  @apply my-10;
+}
+blockquote p {
+  @apply mb-0;
+  @apply leading-tight;
+}
+blockquote em {
+  @apply block;
+  @apply not-italic;
+  @apply pt-4;
+  @apply text-base;
+  @apply leading-tight;
+}
+
+hr {
+  @apply border-gray-800;
+  @apply my-20;
+  @apply mx-auto;
+  @apply w-64;
+}
+
+ol, ul {
+  list-style-position: inside;
+}
+ol {
+  list-style-type: decimal;
+}
+ul {
+  list-style-type: disc;
+}
+ol li::marker, ul li::marker {
+  @apply text-headers-content;
+}
+
+article img {
+  @apply rounded-lg;
 }
 
 /*
@@ -88,6 +143,15 @@ code {
 }
 .mb--4 {
   margin-bottom: -1rem;
+}
+
+/* Custom Styles */
+.meta {
+  @apply mt-2;
+  @apply text-typography-dark;
+}
+.meta p {
+  @apply m-0;
 }
 
 /* purgecss start ignore */

@@ -14,15 +14,13 @@ As the earths average temperature [continues to climb](https://climate.nasa.gov/
 
 
 
-## Democracy's impetus for progress
+### Democracy's impetus for progress
 
->Democracy is messy, and it's hard. It's never easy.
-<p class="caption">Robert Kennedy, Jr</p>
+>Democracy is messy, and it's hard. It's never easy. *Robert Kennedy, Jr*
 
 Another objective listed in the preamble of the Constitution of the United States is "[domestic Tranquility](https://constitution.congress.gov/constitution/preamble/)." However, I think Robert Kennedy, Jr's description of democracy more accurately depicts the inherent nature of a Free State, and this isn't a bad thing. Peace and tranquility are seemingly ideal conditions, but tend to not elicit change or progress. After all, the United States itself was born from two conflicting countries.
 
->We the People of the United States, in Order to form a more perfect Union...
-<p class="caption"><a href="https://constitution.congress.gov/constitution/preamble/">The first part of the Preamble of the United States Constitution</a></p>
+>We the People of the United States, in Order to form a more perfect Union... *[The first part of the Preamble of the United States Constitution](https://constitution.congress.gov/constitution/preamble/)*
 
 It may be that mere freedom of thought and expression create discontentment. It's beyond question that a populace will never reach consensus on what a "perfect" political system should be. 
 
@@ -40,12 +38,11 @@ Again, if the Thirteen Colonies were content in subjecting themselves to the Kin
 Discontentment is the impetus for progress.
 
 
-## Constitutional measures of success
+### Constitutional measures of success
 
 The Preamble sets up the main intent for the creation of the Constitution, which can be viewed as the measures of success, or the desired outcomes of the Constitution.
 
->We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
-<p class="caption"><a href="https://constitution.congress.gov/constitution/preamble/">Preamble of the Constitution of the United States</a></p>
+>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America. *[Preamble of the Constitution of the United States](https://constitution.congress.gov/constitution/preamble/)*
 
 The main objectives are:
 
@@ -60,30 +57,27 @@ I believe there are also some other ideals and motivators of the founders that a
 1. All people are equal
 1. Governments are instituted for the purposes of the people, with their consent
 
->We hold these truths to be self-evident, that all men are created equal, that they are endowed, by their Creator, with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. &mdash;That to secure these rights, governments are instituted among men, deriving their just powers from the consent of the governed, that whenever any form of government becomes destructive of these ends, it is the right of the people to alter or to abolish it, and to institute new government, laying its foundation on such principles, and organizing its powers in such form, as to them shall seem most likely to effect their safety and happiness.
-<p class="caption"><a href="https://www.cga.ct.gov/asp/content/constitutions/Declaration.htm">The Declaration of Independence</a></p>
+>We hold these truths to be self-evident, that all men are created equal, that they are endowed, by their Creator, with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. &mdash;That to secure these rights, governments are instituted among men, deriving their just powers from the consent of the governed, that whenever any form of government becomes destructive of these ends, it is the right of the people to alter or to abolish it, and to institute new government, laying its foundation on such principles, and organizing its powers in such form, as to them shall seem most likely to effect their safety and happiness. *[The Declaration of Independence](https://www.cga.ct.gov/asp/content/constitutions/Declaration.htm)*
 
-## Has the United States fulfilled its Constitutional objectives?
+### Has the United States fulfilled its Constitutional objectives?
 
->Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
-<p class="caption"><a href="https://constitution.congress.gov/browse/essay/amdt1-2-12-3-2/ALDE_00000763/%5B'protest'%5D">First Amendment 1.2.12.3.2</a></p>
+>Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. *[First Amendment 1.2.12.3.2](https://constitution.congress.gov/browse/essay/amdt1-2-12-3-2/ALDE_00000763/%5B'protest'%5D)*
 
 The Declaration of Independence offers an insight that is similar to the plight faced by many minorities.
 
->Prudence, indeed, will dictate, that governments long established, should not be changed for light and transient causes; and accordingly all experience hath shown, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same object, evinces a design to reduce them under absolute despotism, it is their right, it is their duty, to throw off such government, and to provide new guards for their future security.
-<p class="caption"><a href="https://www.cga.ct.gov/asp/content/constitutions/Declaration.htm">The Declaration of Independence</a></p>
+>Prudence, indeed, will dictate, that governments long established, should not be changed for light and transient causes; and accordingly all experience hath shown, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same object, evinces a design to reduce them under absolute despotism, it is their right, it is their duty, to throw off such government, and to provide new guards for their future security. *[The Declaration of Independence](https://www.cga.ct.gov/asp/content/constitutions/Declaration.htm)*
 
 
-## Societal problems require balanced perspective 
+### Societal problems require balanced perspective 
 
 Societal problems require many perspectives for resolution. This is especially true with the emotions and pain felt by others. Dismissing others pain and emotions, regardless of perceived validity is not a valuable exercise. Seeking to understand should be the first objective. Listening to and understanding others is the first step to healing and unity.
 
 I'm not claiming to have a perfect understanding or perspective of all complexities to the challenging situation we find ourselves in today, but I don't believe that free speech should be silenced. We should better our own perspective. Civility and understanding should be the goal, not being "right."
 
-[![13th Documentary](/assets/img/content/equality/netflix-13th-doc.jpg)](https://www.netflix.com/title/80091741)
-<p class="caption">13th, a Netflix documentary</p>
+[![13th Documentary](https://www.robkjohnson.com/assets/img/content/equality/netflix-13th-doc.jpg)](https://www.netflix.com/title/80091741)
+13th, a Netflix documentary
 
-## This inherited problem won't solve itself 
+### This inherited problem won't solve itself 
 
 Our present situation is not born from the generations living today, but inherited from generations past. Today, the living own the present, which if carefully enacted, will contribute to a better future for us all.
 
@@ -91,18 +85,16 @@ This is one of my basic tenets of life, as I'm sure it is for most. To create a 
 
 [Data on incarcerations 2020](https://www.prisonpolicy.org/reports/pie2020.html)
 
-## Involuntary servitude at a systemic level
+### Involuntary servitude at a systemic level
 
 The "[War on Drugs](https://en.wikipedia.org/wiki/War_on_drugs)" became a political platform that evolved inequality within the United States and purpetuated involuntary servitude at a systemic level, targeting Black families with terrible consequences for the generations that followed. Children need fathers, and so many were given extreme penalties which in-turn perpetuated the problem of social instability, while increasing the severity of caution and paranoia for both the local police and the Black community.
 
 ___
 
 > America has never lived up to its founding promise of equality for all, but we’ve never stopped trying. Today, I’ll take action to advance racial equity and push us closer to that more perfect union we’ve always strived to be.
-<p class="caption"><a href="https://twitter.com/POTUS/status/1354056690027683841?s=19">46th President of the United States &mdash; Joseph R. Biden</a></p>
+*[46th President of the United States &mdash; Joseph R. Biden](https://twitter.com/POTUS/status/1354056690027683841?s=19)*
 
-> Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+> Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction. *[Thirteenth Amendment to the United States Constitution](https://constitution.congress.gov/constitution/amendment-13/)*
 
-<p class="caption"><a href="https://constitution.congress.gov/constitution/amendment-13/" title="Thirteenth Amendment to the United States Constitution">Thirteenth Amendment to the United States Constitution</a></p>
-
-## To be continued
+### To be continued
 This will be a living document. More to come.

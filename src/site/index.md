@@ -5,7 +5,7 @@ subtitle: 14+ years of professional experience in web development, e-commerce, m
 eleventyExcludeFromCollections: true
 ---
 
-## About me
+### About me
 
 I help shrink the gap between customer intent and action with web-based technologies. I thrive in ambiguity and have a penchant for organizing chaos into structure, process and rhythm.
 
